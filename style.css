@@ -101,3 +101,31 @@ input.search{
     height: 30px;
     background-color:rgb(221, 37, 98);
 }
+
+.quote{
+    margin-left: 21px;
+    margin-top: 50px;
+    font-size: x-large;
+    color: rgb(221, 37, 98)
+}
+
+.photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 20px;
+    width: 1060px;
+    
+    
+}
+
+.grassy{
+    border-radius: 5px;
+}
+
+.ocean{
+    border-radius: 5px;
+}
+
+.woods{
+    border-radius: 5px;
+}
